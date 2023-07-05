@@ -1,5 +1,5 @@
 ---
-title: Data Vizualization
+title: Tuesday - Data Vizualization
 ---
 
 9:00 am

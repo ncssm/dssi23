@@ -5,6 +5,7 @@ title: Tuesday - Data Vizualization
 9:00 am
 : [Tools for Data Vizualization](#)
   : [CoDAP](#), [Google Sheets](#), [Jupyter Notebooks](#)
+: Datasets: Chronic Kidney Disease, World Statistics, Text Analysis
 
 10:30am
 : **Hands-On**{: .label .label-purple }[Activity TBD](#)

@@ -12,7 +12,7 @@ permalink: index.html
 NCSSM-Morganton, July 10-14, 2023
 {: .mb-2 .fs-6 .text-grey-dk-000 }
 
-[Jupyter Link](https://demohub.ncssm.edu){: .btn .btn-organge}
+[Jupyter Link](https://demohub.ncssm.edu){: .btn .btn-orange}
 
 ## Announcements
 

@@ -20,7 +20,7 @@ author: Taylor Gibson
 baseurl: '/dssi23' # the subpath of your site, e.g. /blog
 url: 'https://ncssm.github.io' # the base hostname & protocol for your site, e.g. http://example.com
 exclude: ["Gemfile", "Gemfile.lock", "LICENSE"]
-logo: ncssm.jpg
+logo: /assets/images/ncssm.jpg
 
 # Theme settings
 remote_theme: just-the-docs/just-the-docs@v0.5.3

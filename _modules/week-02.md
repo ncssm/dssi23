@@ -1,23 +1,21 @@
 ---
-title: Basic Data Structures
+title: Data Vizualization
 ---
 
-Oct 5
-: [Linked Lists & Encapsulation](#)
-  : [3.1](#), [2.2](#), [2.3](#)
+🕘 9:00 am
+: [Tools for Data Vizualization](#)
+  : [CoDAP](#), [Google Sheets](#), [Jupyter Notebooks](#)
 
-Oct 6
-: **Section**{: .label .label-purple }[Linked Lists](#)
-  : [Solution](#)
+🕥 10:30am
+: **Hands-On**{: .label .label-purple }[Activity TBD](#)
+  : [Instructions](#)
 
-Oct 7
-: [Resizing Arrays](#)
-  : [2.4](#), [2.5](#)
+🕛 12:00pm 🥘 Lunch 🥘
 
-Oct 8
-: **Lab**{: .label .label-purple } [Resizing Arrays](#)
+🕐 1:00pm Taryn
+: **Speaker**{: .label .label-red } [Description](#)
 
-Oct 9
-: [Runtime Analysis](#)
-  : [8.1](#), [8.2](#), [8.3](#), [8.4](#)
-: **HW 2 due**{: .label .label-red }
+🕝 2:30pm ☕ Coffee Break ☕
+
+🕒 3:00pm Sam
+: **Speaker**{: .label .label-red } [Description](#)

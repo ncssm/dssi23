@@ -1,5 +1,5 @@
 ---
-title: Monday: Welcome and Data Collection
+title: Monday - Welcome and Data Collection
 ---
 
 1:00pm

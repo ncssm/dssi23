@@ -22,6 +22,6 @@ title: Tuesday - Data Vizualization
 : ☕ Coffee Break ☕
 
 3:00pm
-: **Speaker**{: .label .label-red } Sam 
+: **Speaker**{: .label .label-red } Mahmoud 
   : [Slides](#)
 : **Description** This will get replaced soon.

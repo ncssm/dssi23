@@ -23,7 +23,7 @@ schedule:
   - name: Monday
     events:
       - name: Check-in
-        start: 12:30 PM
+        start: 12:00 PM
         end: 1:00 PM
       - name: Opening Session
         start: 1:00 PM
@@ -41,9 +41,9 @@ schedule:
     events:
       - name: Breakfast
         start: 8:30 AM
-        end: 9:00 AM
+        end: 9:15 AM
       - name: National Landscape
-        start: 9:00 AM
+        start: 9:15 AM
         end: 10:00 AM
       - name: Data Science in Industry
         start: 10:00 AM

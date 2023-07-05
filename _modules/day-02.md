@@ -14,10 +14,14 @@ title: Tuesday - Data Vizualization
  : 🥘 Lunch 🥘
 
 1:00pm 
-: **Speaker**{: .label .label-red } Taryn [Description](#)
+: **Speaker**{: .label .label-red } Taryn 
+  : [Slides](#)
+: **Description** This will get replaced soon.
 
 2:30pm
 : ☕ Coffee Break ☕
 
 3:00pm
-: **Speaker**{: .label .label-red } Sam [Description](#)
+: **Speaker**{: .label .label-red } Sam 
+  : [Slides](#)
+: **Description** This will get replaced soon.

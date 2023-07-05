@@ -1,12 +1,12 @@
 ---
 layout: page
 title: Staff
-description: A listing of all the course staff members.
+description: A listing of all the people involved this week.
 ---
 
-# Staff
+# Workshop Staff
 
-Staff information is stored in the `_staffers` directory and rendered according to the layout file, `_layouts/staffer.html`.
+A big thanks to all the folks who worked to make this week possible!
 
 ## Instructors
 
@@ -15,12 +15,12 @@ Staff information is stored in the `_staffers` directory and rendered according 
 {{ staffer }}
 {% endfor %}
 
-{% assign teaching_assistants = site.staffers | where: 'role', 'Teaching Assistant' %}
-{% assign num_teaching_assistants = teaching_assistants | size %}
-{% if num_teaching_assistants != 0 %}
-## Teaching Assistants
+{% assign speakers = site.staffers | where: 'role', 'Speaker' %}
+{% assign num_speakers = speakers | size %}
+{% if num_speakers != 0 %}
+## Speakers
 
-{% for staffer in teaching_assistants %}
+{% for staffer in speakers %}
 {{ staffer }}
 {% endfor %}
 {% endif %}

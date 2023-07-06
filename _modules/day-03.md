@@ -1,5 +1,5 @@
 ---
-title: Wednesday - Simulation Based Inference
+title: Wednesday
 ---
 
 9:00 am

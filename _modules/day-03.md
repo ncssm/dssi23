@@ -31,3 +31,7 @@ title: Wednesday
   : [Slides](#)
 : **Title:** DIY Lesson Design: Making the Data Science Classroom your Own (Day 2)  
 : When designing a data science lesson the first thing you need is … data. At the start of this session, participants will be given tips on where to find data sets and how to prepare them to be used in lessons. After choosing a data set, you’ll work with other participants to create a data story that you’ll use to design tasks and make up questions for students to answer. Finally, you’ll be guided through the process of developing a Jupyter notebook for your lesson. 
+
+5:30pm - 7:30pm
+: **🍻 Happy Hour Reception**
+: Come grab a drink and socialize this evening at Fonta Flora brewery, right across the street from The Fairfield Inn and Suites in downtown Morganton. We have the side room reserved for our event. There will be a food truck on site this evening. Fonta Flora is known for their beer, but also serve wine, and have on-alcoholic drink options available as well. Hope to see you there!

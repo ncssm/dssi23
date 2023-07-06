@@ -8,12 +8,12 @@ title: Friday - Wrapping it up!
 9:00am
 : **Speaker**{: .label .label-red } Zarek Drozda, DS4E
   : [Slides](#)
-: **Description**: National overview of data science education efforts
+: A national overview of data science education efforts
 
 10:00am
 : **Speaker**{: .label .label-red } Ray Levy, NC State
   : [Slides](#)
-: **Description**: Data science applications in industry
+: A window into how data science is applied in careers and industry
 
 11:00am
 : **Where to go from here?**

@@ -4,4 +4,8 @@ role: Speaker
 email: rlevy@ncsu.edu
 photo: ray.jpg
 ---
-Executive Director of NC State’s Data Science Academy
+Executive Director 
+
+Data Science Academy
+
+NC State University

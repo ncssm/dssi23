@@ -15,14 +15,16 @@ title: Tuesday - Data Vizualization
  : 🥘 Lunch 🥘
 
 1:00pm 
-: **Speaker**{: .label .label-red } Taryn 
+: **Speaker**{: .label .label-red } Taryn Shelton, NC State
   : [Slides](#)
-: **Description** This will get replaced soon.
+: **Title**: Modeling with Data
+: **Description** Coming soon!
 
 2:30pm
 : ☕ Coffee Break ☕
 
 3:00pm
-: **Speaker**{: .label .label-red } Mahmoud 
+: **Speaker**{: .label .label-red } Mahmoud Harding, DS4E
   : [Slides](#)
-: **Description** This will get replaced soon.
+: **Title**: DIY Lesson Design: Making the Data Science Classroom your Own (Day 1)
+: **Description** When designing a data science lesson the first thing you need is … data. At the start of this session, participants will be given tips on where to find data sets and how to prepare them to be used in lessons. After choosing a data set, you’ll work with other participants to create a data story that you’ll use to design tasks and make up questions for students to answer. Finally, you’ll be guided through the process of developing a Jupyter notebook for your lesson. 

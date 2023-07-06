@@ -1,14 +1,17 @@
 ---
-title: Tuesday - Data Vizualization
+title: Tuesday
 ---
 
 9:00 am
-: [Tools for Data Vizualization](#)
+: Data Vizualization: What is it, and why is it important?
+
+9:30 am
+: [Exploring Tools for Data Vizualization](#)
   : [CoDAP](#), [Google Sheets](#), [Jupyter Notebooks](#)
 : Datasets: Chronic Kidney Disease, World Statistics, Text Analysis
 
 10:30am
-: **Hands-On**{: .label .label-purple }[Activity TBD](#)
+: **Hands-On**{: .label .label-purple } Vizualizing our helicopter data
   : [Instructions](#)
 
 12:00pm

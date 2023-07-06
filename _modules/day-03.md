@@ -8,8 +8,7 @@ title: Wednesday
 
 9:30am
 : **Hands-On**{: .label .label-purple } Manually simulating experiments: Flipping coins and tagging penguins
-  : [Coin Flipping](https://askgoodquestions.blog/2019/09/23/12-simulation-based-inference-part-1/)
-  : [Penguin Cards](https://askgoodquestions.blog/2020/01/06/27-simulation-based-inference-part-2/)
+  : [Coin Flipping](https://askgoodquestions.blog/2019/09/23/12-simulation-based-inference-part-1/), [Penguin Tags](https://askgoodquestions.blog/2020/01/06/27-simulation-based-inference-part-2/)
 
 10:30am
 : **Coding**{: .label .label-orange} Using computers to simulate at scale

@@ -17,8 +17,8 @@ title: Tuesday - Data Vizualization
 1:00pm 
 : **Speaker**{: .label .label-red } Taryn Shelton, NC State
   : [Slides](#)
-: **Title**: Modeling with Data
-: **Description** Coming soon!
+: **Title**: Modeling with Data for Beginners
+: **Description** Explore the basics of the modeling process and learn how data can drive authentic questioning and discussions among your students.
 
 2:30pm
 : ☕ Coffee Break ☕

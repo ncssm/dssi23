@@ -2,10 +2,6 @@
 name: Taryn Shelton
 role: Speaker
 email: tshelto3@ncsu.edu
-photo: tayryn.JPG
+photo: tayryn.jpg
+bio: K-12 Data Science Program Coordinator @ NC State University for The Science House and The Data Science Academy
 ---
-
-: K-12 Data Science Program Coordinator
-: The Science House
-: The Data Science Academy
-: NC State University

@@ -1,16 +1,16 @@
 ---
-title: Thursday - Prediction
+title: Thursday
 ---
 
 9:00 am
-: [Prediction Methods](#)
+: Making predictions with data
 
 9:30am
-: **Hands-On**{: .label .label-purple } Midge Problem
+: **Hands-On**{: .label .label-purple } The Midge Problem: An introduction to classification
   : [Google Doc](#)
 
 10:30am
-: **Coding**{: .label .label-orange} Coding Activity
+: **Coding**{: .label .label-orange} Use a computer to speed up your predications. We'll use google sheets and python to explore how to speed up classification.
 
 12:00pm
  : 🥘 Lunch 🥘

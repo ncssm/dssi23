@@ -3,16 +3,16 @@ title: Wednesday - Simulation Based Inference
 ---
 
 9:00 am
-: [Simulation Based Inference](#)
+: Simulation Based Inference: Unlocking computational power
+  : [Slides](#)
 
 9:30am
-: **Hands-On**{: .label .label-purple }[Activity TBD](#)
-  : [Coin Flipping](#), [Penguin Cards](#)
-: (https://askgoodquestions.blog/2019/09/23/12-simulation-based-inference-part-1/)
-: (https://askgoodquestions.blog/2020/01/06/27-simulation-based-inference-part-2/)
+: **Hands-On**{: .label .label-purple } Manually simulating experiments: Flipping coins and tagging penguins
+  : [Coin Flipping](https://askgoodquestions.blog/2019/09/23/12-simulation-based-inference-part-1/)
+  : [Penguin Cards](https://askgoodquestions.blog/2020/01/06/27-simulation-based-inference-part-2/)
 
 10:30am
-: **Coding**{: .label .label-orange} Coding Activity
+: **Coding**{: .label .label-orange} Using computers to simulate at scale
 
 12:00pm
  : 🥘 Lunch 🥘

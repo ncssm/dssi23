@@ -40,7 +40,7 @@ Open: Wednesday - Friday, 11am - 7pm
 #### **[Town Tavern of Morganton](https://towntavernmorg.com/)**
 Open: Monday - Friday, 11am - midnight
 
-## Coffee/Treats
+## Coffee / Treats
 
 #### **[Grind Cafe](https://places.singleplatform.com/the-grind-cafe-3/menu?ref=google)**
 Open: Monday - Friday, 7am - 2pm

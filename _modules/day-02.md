@@ -3,11 +3,11 @@ title: Tuesday
 ---
 
 9:00 am
-: Data Vizualization: What is it, and why is it important?
+: **Lesson**{: .label .label-green }Data Vizualization: What is it, and why is it important?
 
 9:30 am
-: [Exploring Tools for Data Vizualization](#)
-  : [CoDAP](#), [Google Sheets](#), [Jupyter Notebooks](#)
+: **Technology**{: .label .label-yellow }Exploring Tools for Data Vizualization
+  : [CoDAP](https://codap.concord.org/), [Google Sheets](https://sheets.google.com), [Jupyter Notebooks](https://demohub.ncssm.edu)
 : Datasets: Chronic Kidney Disease, World Statistics, Text Analysis
 
 10:30am

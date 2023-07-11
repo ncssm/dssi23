@@ -21,7 +21,7 @@ title: Tuesday
 
 1:00pm 
 : **Speaker**{: .label .label-red } Taryn Shelton, NC State
-  : [Slides](#)
+  : [Google Slides](https://docs.google.com/presentation/d/1bHfiog8C-ajIXTRzohBjM5zq2a37khmvxIo03Yuy5q8/edit)
 : **Title**: Modeling with Data for Beginners
 : Explore the basics of the modeling process and learn how data can drive authentic questioning and discussions among your students.
 

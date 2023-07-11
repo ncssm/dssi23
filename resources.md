@@ -11,6 +11,6 @@ Over the course of the week, we'll add the resources that come up to this page.
 
 ## Datasets
 
-: [Data is Plural](https://www.data-is-plural.com/)
+[Data is Plural](https://www.data-is-plural.com/)
 
-: [Kaggle](https://www.kaggle.com/datasets)
+[Kaggle](https://www.kaggle.com/datasets)

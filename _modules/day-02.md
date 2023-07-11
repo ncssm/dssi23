@@ -30,6 +30,6 @@ title: Tuesday
 
 3:00pm
 : **Speaker**{: .label .label-red } Mahmoud Harding, DS4E
-  : [Slides](#)
+  : [Google Slides](https://docs.google.com/presentation/d/16lbqPRgWJOhPXW1aRPRQiX2gef998qvJhmseHBZ5UZs/edit?usp=sharing), [Sync Materials](https://demohub.ncssm.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fmahmoudharding%2Fncssm&urlpath=lab%2Ftree%2Fncssm%2F)
 : **Title**: DIY Lesson Design: Making the Data Science Classroom your Own (Day 1)
-: When designing a data science lesson the first thing you need is … data. At the start of this session, participants will be given tips on where to find data sets and how to prepare them to be used in lessons. After choosing a data set, you’ll work with other participants to create a data story that you’ll use to design tasks and make up questions for students to answer. Finally, you’ll be guided through the process of developing a Jupyter notebook for your lesson. 
+: When designing a data science lesson the first thing you need is ... data. At the start of this session, participants will be given tips on where to find data sets and how to prepare them to be used in lessons. After choosing a data set, you’ll work with other participants to create a data story that you’ll use to design tasks and make up questions for students to answer. Finally, you’ll be guided through the process of developing a Jupyter notebook for your lesson.

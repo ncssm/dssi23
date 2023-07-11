@@ -14,7 +14,7 @@ title: Tuesday
 
 10:30am
 : **Hands-On**{: .label .label-purple } Vizualizing our helicopter data
-  : [Instructions](#)
+: Using your tool of choice, investigate the helicopter data we collected yesterday. What is interesting about it? What do you notice? Are there any observations you might want to dig deeper into?
 
 12:00pm
  : 🥘 Lunch 🥘

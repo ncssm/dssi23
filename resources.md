@@ -18,3 +18,7 @@ Over the course of the week, we'll add the resources that come up to this page.
 [Gapminder](https://www.gapminder.org)
 
 [Project Gutenberg](https://www.gutenberg.org)
+
+## Articles / Blog Posts
+
+[One Useful Thing: What AI can do with a toolbox... Getting started with Code Interpreter](https://www.oneusefulthing.org/p/what-ai-can-do-with-a-toolbox-getting)

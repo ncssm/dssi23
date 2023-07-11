@@ -3,12 +3,14 @@ title: Tuesday
 ---
 
 9:00 am
-: **Lesson**{: .label .label-green }Data Vizualization: What is it, and why is it important?
+: **Lesson**{: .label .label-green }Data Vizualization
+  : [Google Slides](#)
+: What is it, and why is it important?
 
 9:30 am
 : **Technology**{: .label .label-yellow }Exploring Tools for Data Vizualization
   : [CoDAP](https://codap.concord.org/), [Google Sheets](https://sheets.google.com), [Jupyter Notebooks](https://demohub.ncssm.edu)
-: Datasets: Chronic Kidney Disease, World Statistics, Text Analysis
+: Datasets: [Chronic Kidney Disease](https://raw.githubusercontent.com/ncssm/dssi23/main/assets/data/ckd.csv), World Statistics, Text Analysis
 
 10:30am
 : **Hands-On**{: .label .label-purple } Vizualizing our helicopter data

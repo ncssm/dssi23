@@ -14,3 +14,6 @@ Over the course of the week, we'll add the resources that come up to this page.
 [Data is Plural](https://www.data-is-plural.com/)
 
 [Kaggle](https://www.kaggle.com/datasets)
+
+[Gapminder](https://www.gapminder.org)
+

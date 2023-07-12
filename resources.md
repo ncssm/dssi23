@@ -31,7 +31,7 @@ Over the course of the week, we'll add the resources that come up to this page.
 ## Videos
 [Playlist for NCSSM Data Science Class](https://www.youtube.com/playlist?list=PLE6ty64ouo1NDiJ16K678elFZTcrBSc4v)
 
-## Online Resources
+## Online Resources for Notebooks
 [Google Colaboratory](https://colab.research.google.com)
 
 [Deepnote](https://deepnote.com/)

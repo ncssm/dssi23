@@ -3,8 +3,9 @@ title: Wednesday
 ---
 
 9:00 am
-: **Lesson**{: .label .label-green }Simulation Based Inference: Unlocking computational power
-  : [Slides](#)
+: **Lesson**{: .label .label-green }Simulation Based Inference
+  : [Google Slides](https://docs.google.com/presentation/d/1_33zEPAAF5fOJyMvutTMk4I958GjIWvHi4cEyfJQOYM/edit?usp=sharing)
+: Unlocking computational power
 
 9:30am
 : **Hands-On**{: .label .label-purple } Manually simulating experiments: Flipping coins and tagging penguins

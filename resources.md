@@ -27,3 +27,10 @@ Over the course of the week, we'll add the resources that come up to this page.
 
 ## Books
 [Statistics: Unlocking the Power of Data: Lock, Lock, Morgan, Lock, and Lock](https://www.wiley.com/en-us/Statistics%3A+Unlocking+the+Power+of+Data%2C+3rd+Edition-p-9781119674160)
+
+## Videos
+[Playlist for NCSSM Data Science Class](https://www.youtube.com/playlist?list=PLE6ty64ouo1NDiJ16K678elFZTcrBSc4v)
+
+## Online Resources
+[Google Colaboratory](https://colab.research.google.com)
+[Deepnote](https://deepnote.com/)

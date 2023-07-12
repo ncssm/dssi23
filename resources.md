@@ -26,4 +26,4 @@ Over the course of the week, we'll add the resources that come up to this page.
 [Ask Good Questions, by Alan Rossman](https://askgoodquestions.blog/) Posts #12 and #27 inspired the SBI activities.
 
 ## Books
-[Statistics: Unlocking the Power of Data: Lock, Lock, Lock, and Lock](https://www.wiley.com/en-us/Statistics%3A+Unlocking+the+Power+of+Data%2C+3rd+Edition-p-9781119674160)
+[Statistics: Unlocking the Power of Data: Lock, Lock, Morgan, Lock, and Lock](https://www.wiley.com/en-us/Statistics%3A+Unlocking+the+Power+of+Data%2C+3rd+Edition-p-9781119674160)

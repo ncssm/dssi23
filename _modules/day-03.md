@@ -8,7 +8,7 @@ title: Wednesday
 
 9:30am
 : **Hands-On**{: .label .label-purple } Manually simulating experiments: Flipping coins and tagging penguins
-  : [Coin Flipping](https://www.rossmanchance.com/applets/2021/oneprop/OneProp.htm), [Penguin Tags](https://www.rossmanchance.com/applets/2021/chisqshuffle/ChiSqShuffle.htm)
+  : [Coin Flipping](https://www.rossmanchance.com/applets/2021/oneprop/OneProp.htm), [Penguin Tags](https://www.rossmanchance.com/applets/2021/chisqshuffle/ChiSqShuffle.htm?twobytwo=1)
 
 10:30am
 : **Techology**{: .label .label-yellow} Using computers to simulate at scale

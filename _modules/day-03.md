@@ -21,7 +21,7 @@ title: Wednesday
 : **Speaker**{: .label .label-red } Gemma Mojica and Emily Thrasher 
   : [Slides](https://drive.google.com/file/d/1HLKFQMwLSR5JHdl4_9B-m43G6kVX_1eI/view)
 : **Title:**  Incorporating Data Science into your Classroom
-: Want to engage students with real data to build statistical reasoning and data science skills? Come learn what data scientists do and what processes and dispositions can be developed. Bring your laptop to investigate multivariate, messy data using a data investigation process and a free data visualization and analysis tool (CODAP). A free, online professional learning platform (InSTEP) to develop teachers’ expertise in teaching data science and statistics will be shared, along with classroom resources.
+: Want to engage students with real data to build statistical reasoning and data science skills? Come learn what data scientists do and what processes and dispositions can be developed. Bring your laptop to investigate multivariate, messy data using a data investigation process and a free data visualization and analysis tool ([CODAP](https://codap.concord.org/)). A free, online professional learning platform ([InSTEP](https://instepwithdata.org)) to develop teachers’ expertise in teaching data science and statistics will be shared, along with classroom resources.
 
 2:30pm
 : ☕ Coffee Break ☕

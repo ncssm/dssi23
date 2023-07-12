@@ -33,4 +33,5 @@ Over the course of the week, we'll add the resources that come up to this page.
 
 ## Online Resources
 [Google Colaboratory](https://colab.research.google.com)
+
 [Deepnote](https://deepnote.com/)

@@ -10,6 +10,30 @@ permalink: recreation.html
 
 There's quite a bit to do around town, especially during the summer. Below you'll find some recommendation of locaal things to do while you're visiting. In addition to what you'll find below, Morganton has plenty of chain stores and restaurants nearby, but if you can, it would be great to support our local businessnes in the community.
 
+## Events in town this week
+﻿
+### Wednesday, July 12
+
+- Mini Morganton Farmers Market (111 North Green- diagonal from CVS Pharmacy) 11:00am-2:00pm
+- Food Truck Court at Historic Courthouse Square (102 East Union) with Hellfire Hotwings 11:00am-2:00pm
+- Wine Down Wednesday at The Olive of Morganton (111 East Union Street) $1.00 off glasses of wine all day!
+- Wine Down Wednesday at Treat (100 West Union) 5:00pm
+- Whiskey Wednesday at Magnolia Room (400 North Green) 5:00-10:30pm - $15 Flight Special
+- Ladies Climb Wednesday at Bigfoot Climbing Gym (212 Avery Avenue) from 5:30-7:30pm ($10 for non members)
+- Tap Takeover - Duclaw Brewing Company at Brown Mountain Bottleworks (115 East Union) 6:00pm
+- Community Forum: Substance Use with Beth Macy at CoMMA Performing Arts Center (401 South College Street) 6:00pm - Doors open at 5:00pm
+- Texas Hold'em at Downtown Sports Bar and Lounge (216 East Union) 7:00-10:00pm
+- Wine Down Singo / Dance Party at The Olive of Morganton (111 East Union Street) starting at 7:30pm
+
+### Thursday, July 13
+
+- Dynamic Movement at Breathe Yoga & Pilates (115 West Union) 8:15am
+- Philly Flava at Hillman Beer (301 South Sterling Street) 12:00-8:00pm
+- Morganton Ukulele Society Jams at Burke Arts Council (506 South Sterling Street) 6:00-8:00pm
+- Cornhole Tournament at Downtown Sports Bar (216 East Union) 6:30pm
+- Trivia at Sidetracked Brewery (609 South Green Street) 7:00pm
+- Thirsty Thursdays at The Olive of Morganton (111 East Union) All Day
+
 ## Dining
 
 ### Close to the hotel

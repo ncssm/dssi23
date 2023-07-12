@@ -9,6 +9,9 @@ permalink: resources.html
 # Resources from the week
 Over the course of the week, we'll add the resources that come up to this page.
 
+## Shared contact information
+If you would like to, please add your contact information to this [Google Sheet](https://docs.google.com/spreadsheets/d/1Qc9_Z31fLvLASjYnlrkIiqUsqZ4s8A-6txVF9FGKpVA/edit?usp=sharing) to help continue conversations and stay in contact.
+
 ## Datasets
 
 [Data is Plural](https://www.data-is-plural.com/)

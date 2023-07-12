@@ -24,3 +24,6 @@ Over the course of the week, we'll add the resources that come up to this page.
 [One Useful Thing: What AI can do with a toolbox... Getting started with Code Interpreter](https://www.oneusefulthing.org/p/what-ai-can-do-with-a-toolbox-getting)
 
 [Ask Good Questions, by Alan Rossman](https://askgoodquestions.blog/) Posts #12 and #27 inspired the SBI activities.
+
+## Books
+[Statistics: Unlocking the Power of Data: Lock, Lock, Lock, and Lock](https://www.wiley.com/en-us/Statistics%3A+Unlocking+the+Power+of+Data%2C+3rd+Edition-p-9781119674160)

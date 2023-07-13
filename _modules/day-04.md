@@ -28,7 +28,7 @@ title: Thursday
 
 3:00pm
 : **Speaker**{: .label .label-red } Sam Leav
-  : [Slides](#), [Data Science for Everyone](https://www.datascience4everyone.org/)
+  : [Slides](https://github.com/ncssm/dssi23/blob/main/assets/pdf/NC%20Presentation%20Sam%20Leav.pdf), [Data Science for Everyone](https://www.datascience4everyone.org/)
 : **Title:** Empowering the Next Generation: Communicating the Value of Data Science Education to Students, Administration, and Communities
 : In this session, we will dive into the world of data science education and its impact on K-12 classrooms. By effectively conveying the value of data literacy and analytical skills, we can equip students to become future innovators and problem solvers in our rapidly evolving world. We will explore strategies for effective messaging and communication, ensuring that school administration and communities understand the significance of data science education. Furthermore, we will discuss ways to engage families in supporting this transformative initiative, fostering a collaborative environment. By leveraging the power of data science education, we can collectively nurture a culture of data-driven decision-making, empowering students to embrace the challenges and opportunities of tomorrow.
 

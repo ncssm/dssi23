@@ -19,7 +19,7 @@ title: Thursday
 
 1:00pm 
 : **Speaker**{: .label .label-red } Doug Hague 
-  : [Google Slides](https://docs.google.com/presentation/d/1abgQxjtN9XKyR5d36YwHsFhHxNol6BmR1Ha3GIr3bgM/edit?usp=sharing), Long Jump Data [Boys](https://github.com/ncssm/dssi23/blob/main/assets/data/Boys%20LJ%20vs%2055m.csv) [Girls](https://github.com/ncssm/dssi23/blob/main/assets/data/Girls%20LJ%20vs%2055m.csv) [Excel](https://github.com/ncssm/dssi23/raw/main/assets/data/Long%20Jump%20Graphs.xlsx)
+  : [Google Slides](https://docs.google.com/presentation/d/1abgQxjtN9XKyR5d36YwHsFhHxNol6BmR1Ha3GIr3bgM/edit?usp=sharing), Long Jump Data [Boys](https://github.com/ncssm/dssi23/blob/main/assets/data/Boys%20LJ%20vs%2055m.csv) [Girls](https://github.com/ncssm/dssi23/blob/main/assets/data/Combined.csv) [Combined](https://github.com/ncssm/dssi23/blob/main/assets/data/Girls%20LJ%20vs%2055m.csv) [Excel](https://github.com/ncssm/dssi23/raw/main/assets/data/Long%20Jump%20Graphs.xlsx)
 : **Title:** Drawing students into STEM through the analytics of sports
 : For many students, the term “data science” is not familiar.  As such, the School of Data Science at UNC Charlotte is developing concepts and programs to “meet students in their interests.”  One of these is where there is a subset of students that are very interested in sports. Using and analyzing data from sports has engaged students and brought data science into their college and career lexicon. This presentation will discuss projects, programs and methods that have been piloted as well as the early success and learnings from each.
 

@@ -22,6 +22,8 @@ If you would like to, please add your contact information to this [Google Sheet]
 
 [Project Gutenberg](https://www.gutenberg.org)
 
+[NCSSM Course Notebooks](https://github.com/ncssm/ma4110-sp23) Github of course materials to notebooks for Introduction to Data Science
+
 ## Articles / Blog Posts
 
 [One Useful Thing: What AI can do with a toolbox... Getting started with Code Interpreter](https://www.oneusefulthing.org/p/what-ai-can-do-with-a-toolbox-getting)
@@ -40,3 +42,5 @@ If you would like to, please add your contact information to this [Google Sheet]
 [Google Colaboratory](https://colab.research.google.com)
 
 [Deepnote](https://deepnote.com/)
+
+[Reference library for DataScience library](http://www.data8.org/sp22/python-reference.html) Reference for DataScience tools from Data8 with links to examples.

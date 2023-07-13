@@ -28,6 +28,8 @@ If you would like to, please add your contact information to this [Google Sheet]
 
 [Ask Good Questions, by Alan Rossman](https://askgoodquestions.blog/) Posts #12 and #27 inspired the SBI activities.
 
+[California: Data Science is an Alternative to Algebra II] (https://www.nytimes.com/2023/07/13/us/california-math-data-science-algebra.html)
+
 ## Books
 [Statistics: Unlocking the Power of Data: Lock, Lock, Morgan, Lock, and Lock](https://www.wiley.com/en-us/Statistics%3A+Unlocking+the+Power+of+Data%2C+3rd+Edition-p-9781119674160)
 

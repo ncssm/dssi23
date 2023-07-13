@@ -7,7 +7,7 @@ title: Thursday
 
 9:30am
 : **Hands-On**{: .label .label-purple } The Midge Problem: An introduction to classification
-  : [Google Doc](#)
+  : [Google Doc](https://docs.google.com/document/d/1amivLW9tjODtyQ2zZ_KEXdJ4rGmXKRnUyxE9JcB6eo8/edit?usp=sharing)
 
 10:30am
 : **Techology**{: .label .label-yellow } Use a computer to speed up your predications. We'll use google sheets and python to explore how to speed up classification.

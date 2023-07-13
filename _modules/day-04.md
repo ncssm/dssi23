@@ -6,8 +6,9 @@ title: Thursday
 : **Lesson**{: .label .label-green }Making predictions with data
 
 9:30am
-: **Hands-On**{: .label .label-purple } The Midge Problem: An introduction to classification
-  : [Google Doc](https://docs.google.com/document/d/1amivLW9tjODtyQ2zZ_KEXdJ4rGmXKRnUyxE9JcB6eo8/edit?usp=sharing)
+: **Hands-On**{: .label .label-purple } The Midge Problem
+  : [Google Doc](https://docs.google.com/document/d/1amivLW9tjODtyQ2zZ_KEXdJ4rGmXKRnUyxE9JcB6eo8/edit?usp=sharing), [Data set](https://raw.githubusercontent.com/ncssm/dssi23/main/assets/data/midge.csv)
+: An introduction to classification
 
 10:30am
 : **Techology**{: .label .label-yellow } Use a computer to speed up your predications. We'll use google sheets and python to explore how to speed up classification.
@@ -17,7 +18,7 @@ title: Thursday
 
 1:00pm 
 : **Speaker**{: .label .label-red } Doug Hague 
-  : [Slides](#)
+  : [Google Slides](https://docs.google.com/presentation/d/1abgQxjtN9XKyR5d36YwHsFhHxNol6BmR1Ha3GIr3bgM/edit?usp=sharing)
 : **Title:** Drawing students into STEM through the analytics of sports
 : For many students, the term “data science” is not familiar.  As such, the School of Data Science at UNC Charlotte is developing concepts and programs to “meet students in their interests.”  One of these is where there is a subset of students that are very interested in sports. Using and analyzing data from sports has engaged students and brought data science into their college and career lexicon. This presentation will discuss projects, programs and methods that have been piloted as well as the early success and learnings from each.
 

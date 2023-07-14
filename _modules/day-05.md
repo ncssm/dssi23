@@ -19,3 +19,7 @@ title: Friday - Wrapping it up!
 : **Where to go from here?**
   : [Slides](#)
 : We hope that this is just the start of your data science education journey. As we close out the week, make sure you're set up with great resources and a plan for continued growth.
+
+Survey
+: **Feedback**
+  : [Survey Form](https://forms.gle/cemT2wM7WxaMFi879)

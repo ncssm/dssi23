@@ -12,7 +12,7 @@ title: Friday - Wrapping it up!
 
 10:00am
 : **Speaker**{: .label .label-red } Ray Levy, NC State
-  : [Slides](#)
+  : [Slides-PDF](https://github.com/ncssm/dssi23/blob/main/assets/pdf/Glimpse%20into%20data%20science%20in%20industry%207_14_23_share.pdf), [Slides-PPT](https://github.com/ncssm/dssi23/blob/main/assets/slides/Glimpse%20into%20data%20science%20in%20industry%207_14_23_share.pptx)
 : A window into how data science is applied in careers and industry
 
 11:00am

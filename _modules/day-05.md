@@ -6,8 +6,8 @@ title: Friday - Wrapping it up!
 : Breakfast, sponsored by [Data Science 4 Everyone](https://www.datascience4everyone.org)
 
 9:00am
-: **Speaker**{: .label .label-red } Zarek Drozda, DS4E
-  : [Slides](#)
+: **Speaker**{: .label .label-red } Zarek Drozda, [DS4E](https://www.datascience4everyone.org/)
+  : [Slides-PDF](https://github.com/ncssm/dssi23/blob/main/assets/pdf/DS4E%20Deck%20NCSSM%20Shared.pdf) [Slides-PPT](https://github.com/ncssm/dssi23/blob/main/assets/slides/DS4E%20Deck%20NCSSM%20Shared.pptx)
 : A national overview of data science education efforts
 
 10:00am

@@ -8,7 +8,7 @@ permalink: index.html
 
 # Thank You for an AMAZING 2023 Data Science Summer Institute
 
-![Group Photo](https://github.com/ncssm/dssi23/blob/7e9f6fd14f44c5e5c15498204cfaafacc1f8901d/assets/images/BFH_0014_cropped.jpg)
+![Group Photo](https://raw.githubusercontent.com/ncssm/dssi23/7e9f6fd14f44c5e5c15498204cfaafacc1f8901d/assets/images/BFH_0014_cropped.jpg)
 
 {: .mb-2 }
 NCSSM-Morganton, July 10-14, 2023

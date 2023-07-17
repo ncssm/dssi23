@@ -35,8 +35,12 @@ If you would like to, please add your contact information to this [Google Sheet]
 ## Books
 [Statistics: Unlocking the Power of Data: Lock, Lock, Morgan, Lock, and Lock](https://www.wiley.com/en-us/Statistics%3A+Unlocking+the+Power+of+Data%2C+3rd+Edition-p-9781119674160)
 
+[Online "Textbook" for NCSSM Cryptography Class](https://www.macs4200.org)
+
 ## Videos
 [Playlist for NCSSM Data Science Class](https://www.youtube.com/playlist?list=PLE6ty64ouo1NDiJ16K678elFZTcrBSc4v)
+
+[Playlist for NCSSM Cryptography Class](https://www.youtube.com/playlist?list=PLE6ty64ouo1M7Xz6Qj5bgXZOoEE0qilX6)
 
 ## Online Resources for Notebooks
 [Google Colaboratory](https://colab.research.google.com)

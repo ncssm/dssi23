@@ -38,7 +38,7 @@ There's quite a bit to do around town, especially during the summer. Below you'l
 
 ### Close to the hotel
 
-#### **[Moondog Pizza]Moondog Pizza**
+#### **Moondog Pizza**
 Open: Tuesday - Friday, 11am - 10pm
 
 #### **[Root and Vine](http://rootandvinerestaurant.com/)**

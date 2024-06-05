@@ -38,7 +38,7 @@ There's quite a bit to do around town, especially during the summer. Below you'l
 
 ### Close to the hotel
 
-#### **Moondog Pizza**
+#### **[Moondog Pizza]Moondog Pizza**
 Open: Tuesday - Friday, 11am - 10pm
 
 #### **[Root and Vine](http://rootandvinerestaurant.com/)**
@@ -75,7 +75,7 @@ Open: Monday - Friday, 7am - 9pm
 #### **[Thornwell Books](http://www.thornwellbooks.com/)**
 Open: Monday - Friday, 8am - 5:30pm
 
-#### **[Divinity Donuts](https://www.divinitydonutsandbakery.com/)**
+#### ~~[Divinity Donuts](https://www.divinitydonutsandbakery.com/)~~
 Open: Thursday - Friday, 7am - 12pm
 
 ## Bars / Breweries

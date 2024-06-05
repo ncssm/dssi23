@@ -50,6 +50,9 @@ Open: Wednesday - Friday, 5pm - 9pm
 #### **[Food Matters Market And Cafe](https://www.foodmattersmarket.com/)**
 Open: Monday - Friday, 8am - 8pm
 
+#### **[Ono Poke Bowl](https://ono-pokebowl.com/)**
+Open: Monday, Tuesday, Thursday, Friday, 11am - 8pm
+
 ### Close to the school
 
 #### **[Boulevard Barbeque](https://www.boulevardbarbeque.com/)**
